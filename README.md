@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DimenCode
-- 👀 I’m interested in python, discord bots, api stuff
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothin :)
-- 📫 How to reach me reddit : Dimen_404 ; discord : Holo_mars#0372 ; minecraft : DimenSpace
+I'm DimenCode (DimenSpace on most other places), but I guess you can call me Dimen.
+I'm between 18 and 28 years old, I mainly use Linux, and I enjoy programming in Java, Python and Bash.
+If you really wish to contact me, well I'd prefer if you didn't, but if you really want to : @dimenspace on discord.
 
 <!---
 DimenCode/DimenCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
